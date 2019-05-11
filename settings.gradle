@@ -1,0 +1,2 @@
+include ':app', ':codes'
+rootProject.name='MagPro'

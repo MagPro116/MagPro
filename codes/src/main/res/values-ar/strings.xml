@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Magdy</string>
+    <string name="sync">مزامنة</string>
+    <string name="syncMessage">يجب أن تكون خدمة اتصال الإنترنت متاحة حتى تكتمل العملية</string>
+
+
+
+
+    <string name="single">أعزب</string>
+    <string name="divorced">مطلق</string>
+    <string name="widow">أرمل</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+</resources>

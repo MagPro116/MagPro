@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Magdy</string>
+    <string name="sync">Sync</string>
+    <string name="syncMessage">The Internet connection service must be available until the operation is completed</string>
+
+
+
+    <string name="single">Single</string>
+    <string name="divorced">Divorced</string>
+    <string name="widow">Widow</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+
+</resources>
